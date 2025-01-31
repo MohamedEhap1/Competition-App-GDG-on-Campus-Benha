@@ -1,3 +1,4 @@
+import 'package:competition_app/home_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,7 +12,8 @@ class CompetitionApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Scaffold(),
+      theme: ThemeData.dark(),
+      home: HomeScreen(),
     );
   }
 }
