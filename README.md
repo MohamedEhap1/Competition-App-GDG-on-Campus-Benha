@@ -1,16 +1,17 @@
-# competition_app
+# Competition App GDG on Campus Benha
+Flutter-based e-commerce mobile application, developed as part of the Google Developer Groups (GDG) on Campus at Benha University. The app features a modern dark-themed UI with a sleek and user-friendly design.
 
-A new Flutter project.
 
-## Getting Started
+## Features
+- Side Navigation Menu: Provides quick access to Home and Profile screen.
+- Product Categories: Users can browse various categories such as Laptops, Phones, Books, Electronics, and Watches.
+- Product Listings: Displays a list of products with images, names, and prices.
+- Dark Mode UI: A visually appealing dark theme enhances user experience.
+## Technologies Used
+- Flutter: Framework for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- Dart: Programming language used to write the app.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://github.com/MohamedEhap1/Competition-App-GDG-on-Campus-Benha/blob/master/assets/images/competition_design.jpeg?raw=true)
